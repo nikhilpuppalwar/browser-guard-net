@@ -1,0 +1,16 @@
+url,type,date_added
+br-icloud.com.br,phishing,2024-01-15
+mp3raid.com/music/krizz_kaliko.html,benign,2024-01-15
+bopsecrets.org/rexroth/cr/1.htm,benign,2024-01-16
+http://www.garage-pirenne.be/index.php?option=...,defacement,2024-01-16
+http://adventure-nicaragua.net/index.php?option=...,defacement,2024-01-17
+phishing-bank-verify.suspicious-domain.com,phishing,2024-01-17
+malware-download.badsite.net/payload.exe,malware,2024-01-18
+google.com/search?q=machine+learning,benign,2024-01-18
+github.com/microsoft/onnxruntime,benign,2024-01-19
+fake-paypal-login.phishingsite.org,phishing,2024-01-19
+malicious-redirect.compromised.com,malware,2024-01-20
+wikipedia.org/wiki/Machine_learning,benign,2024-01-20
+defaced-website.hacked.net/index.html,defacement,2024-01-21
+amazon.com/dp/B08N5WRWNW,benign,2024-01-21
+fake-microsoft-update.malware.org,malware,2024-01-22
